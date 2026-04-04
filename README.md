@@ -18,7 +18,7 @@
 
 *   **SubscriptionItems** : 月々支払うサブスクや固定費の金額を一目で確認できるアプリ
     *   **Tech Stacks:** Swift, SwiftUI, SwiftData
-    *   **Point:** 金額の代償に応じて合計金額の背景のオブジェクトの大きさを変化させることによる支払額の視覚化、年額/月額や色ラベルによるカテゴライズ機能、直感的な操作が可能なUI
+    *   **Point:** 金額の大小に応じて合計金額の背景のオブジェクトの大きさを変化させることによる支払額の視覚化、年額/月額や色ラベルによるカテゴライズ機能、直感的な操作が可能なUI
     *   [:link: GitHub Repository（App Store未公開）](https://github.com/ShunsukeOU/SubscriptionItems)
 
 
@@ -42,3 +42,6 @@
 ---
 
 ### ⚡ Fun Fact
+
+---
+Last update: 2026/04/04
