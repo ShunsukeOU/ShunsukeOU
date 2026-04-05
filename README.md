@@ -2,7 +2,7 @@
 
 ---
 
-### 🚀 開発したアプリ
+### 🚀 開発したアプリ/拡張機能
 
 *   **MagneticAR** : 磁力線を可視化するARアプリ
     *   **Tech Stack:** Swift, ARKit, UIKit, SceneKint, Coremotion
@@ -32,6 +32,11 @@
     *   [:link: GitHub Repository](https://github.com/ShunsukeOU/PackChecker)
 
 *   **FamilyShoppingMemo**(iOS版)**
+
+*   **Youtubecommentfilter** : Youtube上の見たくないコメントや、日本語以外のコメントを非表示にすることができるChrome拡張機能
+    *   **Tech Staks:** Javascript, HTML
+    *   **Point:** キーワードを含むコメントを非表示にするルールベースのフィルタリング、任意にキーワードを追加可能なカスタマイズ性
+    *   [:link: GitHub Repository](https://github.com/ShunsukeOU/youtube-comment-filter)
 
 ---
 
