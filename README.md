@@ -33,11 +33,13 @@
 
 *   **FamilyShoppingMemo**(iOS版)**
 
-*   **Youtubecommentfilter** : Youtube上の見たくないコメントや、日本語以外のコメントを非表示にすることができるChrome拡張機能
+*   **Youtubecommentfilter(Chrome版)** : Youtube上の見たくないコメントや、日本語以外のコメントを非表示にすることができるChrome拡張機能
     *   **Tech Staks:** Javascript, HTML
     *   **Point:** キーワードを含むコメントを非表示にするルールベースのフィルタリング、任意にキーワードを追加可能なカスタマイズ性
+    *   [:link: Chrome Webstore](https://chromewebstore.google.com/detail/ejpeehceebhgkadkhncpadpcinnejfkc?utm_source=item-share-cb)
     *   [:link: GitHub Repository](https://github.com/ShunsukeOU/youtube-comment-filter)
 
+*  **Youtubecommentfilter(Firefox版)** :
 ---
 
 ### 🛠 Tech Stack 
