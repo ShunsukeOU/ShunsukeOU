@@ -12,34 +12,35 @@
     *  [:link: アプリ紹介Webサイト](https://sites.google.com/view/magneticar/%E3%83%9B%E3%83%BC%E3%83%A0)
 
 *   **FridgeChef** : 冷蔵庫の写真から献立を考えるアプリ
-    *   **Tech Stacks:** Swift, AVFoundation, SwiftUI, Google Gemini API
+    *   **Tech Stack:** Swift, AVFoundation, SwiftUI, Google Gemini API
     *   **Point:** 通常のカメラ機能と異なり写真を端末に保存しない撮影の仕組み、食の好みに合わせた通常/菜食/肉食モードの搭載、直感的な操作が可能なUI
     *   [:link: GitHub Repository（App Store未公開）](https://github.com/ShunsukeOU/FridgeChef)
 
 *   **SubscriptionItems** : 月々支払うサブスクや固定費の金額を一目で確認できるアプリ
-    *   **Tech Stacks:** Swift, SwiftUI, SwiftData
+    *   **Tech Stack:** Swift, SwiftUI, SwiftData
     *   **Point:** 金額の大小に応じて合計金額の背景のオブジェクトの大きさを変化させることによる支払額の視覚化、年額/月額や色ラベルによるカテゴライズ機能、直感的な操作が可能なUI
     *   [:link: GitHub Repository（App Store未公開）](https://github.com/ShunsukeOU/SubscriptionItems)
  
 *   **PackChecker** : 持ち物を行き先ごとに分けてメモし、一目で確認できるアプリ
-    *   **Tech Stacks:** Swfit, SwiftUI, SwiftData
+    *   **Tech Stack:** Swfit, SwiftUI, SwiftData
     *   **Point:** 行き先ごとに持っていくべきものをまとめられる実用性、一目でメモを確認できる視認性
     *   [:link: GitHub Repository（App Store未公開）](https://github.com/ShunsukeOU/PackChecker)
 
 *   **FamilyShoppingMemo（Web版）** : 家族や友達間で買い忘れや買い物メモを共有できるWebアプリ
-    *   **Tech Stacks:** Typescript, React(Vite), ESLint, Node.js, PostgreSQL, Prisma, Docker, UML, HTML, CSS
-    *   **Point:** 家族間で「買い物メモ」を共有することができ、項目ごとに依頼の対象者とカテゴリを指定し、買い終わった後は項目にチェックをつけ、視覚的に買い忘れを防ぐことができる。
+    *   **Tech Stack:** Typescript, React(Vite), ESLint, Node.js, PostgreSQL, Prisma, Docker, UML, HTML, CSS
+    *   **Point:** 家族間で「買い物メモ」を共有することができるアプリ。項目ごとに依頼の対象者とカテゴリを指定し、買い終わった後は項目にチェックをつけ、視覚的に買い忘れを防ぐことがでます。
     *   [:link: GitHub Repository](https://github.com/ShunsukeOU/PackChecker)
 
-*   **FamilyShoppingMemo**(iOS版)**
+*   **FamilyShoppingMemo (iOS版)**
 
-*   **Youtubecommentfilter(Chrome版)** : Youtube上の見たくないコメントや、日本語以外のコメントを非表示にすることができるChrome拡張機能
-    *   **Tech Staks:** Javascript, HTML
+*   **Youtubecommentfilter(Chrome版/Firefox版)** : Youtube上の見たくないコメントや、日本語以外を含まないコメントを非表示にすることができるChrome/Firefox拡張機能
+    *   **Tech Stack:** Javascript, HTML, Chrome API/WebExtensions API
     *   **Point:** キーワードを含むコメントを非表示にするルールベースのフィルタリング、任意にキーワードを追加可能なカスタマイズ性
     *   [:link: Chrome Webstore](https://chromewebstore.google.com/detail/ejpeehceebhgkadkhncpadpcinnejfkc?utm_source=item-share-cb)
-    *   [:link: GitHub Repository](https://github.com/ShunsukeOU/youtube-comment-filter)
-
-*  **Youtubecommentfilter(Firefox版)** :
+    *   [:link: GitHub Repository(Chrome版)](https://github.com/ShunsukeOU/youtube-comment-filter)
+    *   [:link: Firefox Add-ons(AMO)](https://addons.mozilla.org/ja/firefox/addon/youtube-comment-filter-ff/)
+    *   [:link: GitHub Repository(Firefox版)](https://github.com/ShunsukeOU/youtube-comment-filter-firefox)
+  
 ---
 
 ### 🛠 Tech Stack 
@@ -70,4 +71,4 @@
 [:link: 記事のリンク](https://shunsukeou.github.io/blog-Nepal/)
 
 ---
-Last update: 2026/04/05
+![Last Commit](https://img.shields.io/github/last-commit/ShunsukeOU//ShunsukeOU/?label=Last%20update&style=flat-square&color=blue)
