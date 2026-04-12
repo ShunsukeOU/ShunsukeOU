@@ -71,4 +71,4 @@
 [:link: 記事のリンク](https://shunsukeou.github.io/blog-Nepal/)
 
 ---
-![Last Commit](https://img.shields.io/github/last-commit/ShunsukeOU//ShunsukeOU/?label=Last%20update&style=flat-square&color=blue)
+![Last Commit](https://img.shields.io/github/last-commit/ShunsukeOU/ShunsukeOU?label=Last%20update&style=flat-square&color=blue)
