@@ -44,7 +44,10 @@
 *   **InstagramCleaner(Chrome版/Firefox版)** : Instagram上のナビゲーションボタンなどの要素を任意に非表示にすることができるChrome/Firefox拡張機能
     *   **Tech Stack:** Javascript, HTML, Chrome API/WebExtensions API
     *   **Point:** 必要性に合わせてボタンの表示/非表示を切り替えることができる機能性、iPhoneの設定画面を意識したボタンのUI
-    *   
+    *   [:link: Chrome Webstore]()
+    *   [:link: GitHub Repository(Chrome版)](https://github.com/ShunsukeOU/instagram-cleaner-chrome)
+    *   [:link: Firefox Add-ons(AMO)]()
+    *   [:link: GitHub Repository(Firefox版)](https://github.com/ShunsukeOU/instagram-cleaner)
   
 ---
 
