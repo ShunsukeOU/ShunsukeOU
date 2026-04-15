@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shunsuke @ShunsukeOU
+# Shunsuke @ShunsukeOU
 
 ---
 
