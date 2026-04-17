@@ -2,8 +2,6 @@
 
 ---
 
-### 🚀 開発したアプリ/拡張機能
-
 *   **MagneticAR** : 磁力線を可視化するARアプリ
     *   **Tech Stack:** Swift, ARKit, UIKit, SceneKint, Coremotion
     *   **Point:** 砂鉄と磁石を模したわかりやすいオブジェクトと直感的な操作が可能なUI
@@ -51,7 +49,7 @@
   
 ---
 
-### 🛠 Tech Stack 
+### Tech Stack 
 
 #### Languages & Frameworks
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
@@ -68,11 +66,9 @@
 
 ---
 
-### 📫 Connect with me
+### Connect with me
 
 ---
-
-### ⚡ Fun Fact
 
 2025年夏に、ボランティアで海外渡航した際の学びをブログ形式でまとめています。
 
