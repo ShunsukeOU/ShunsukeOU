@@ -2,10 +2,6 @@
 
 # @ShunsukeOU
 
-![Last Commit](https://img.shields.io/github/last-commit/ShunsukeOU/ShunsukeOU?label=Last%20update&style=flat-square&color=blue)
-
----
-
 ### MagneticAR
 
 **Feature:** 磁力線を可視化するARアプリ  
@@ -29,7 +25,7 @@
 
 ### PackChecker
 
-**Feature:** 持ち物を行き先ごとに分けてメモし、一目で確認できるアプリ  
+**Feature:** 持ち物を行き先ごとに分けてメモし，一目で確認できるアプリ  
 **Tech Stack:** Swift, SwiftUI, SwiftData
 
 [GitHub Repository（App Store未公開）](https://github.com/ShunsukeOU/PackChecker)
@@ -43,7 +39,7 @@
 
 ### Youtubecommentfilter(Chrome版/Firefox版)
 
-**Feature:** YouTube上の見たくないコメントや、日本語以外を含まないコメントを非表示にすることができるブラウザ拡張機能  
+**Feature:** YouTube上の見たくないコメントや，本語以外を含まないコメントを非表示にすることができるブラウザ拡張機能  
 **Tech Stack:** JavaScript, HTML, Chrome API, WebExtensions API
 
 [Chrome Webstore](https://chromewebstore.google.com/detail/ejpeehceebhgkadkhncpadpcinnejfkc?utm_source=item-share-cb) ・ [GitHub Repository(Chrome版)](https://github.com/ShunsukeOU/youtube-comment-filter-chrome) ・ [Firefox Add-ons(AMO)](https://addons.mozilla.org/ja/firefox/addon/youtube-comment-filter-ff/) ・ [GitHub Repository(Firefox版)](https://github.com/ShunsukeOU/youtube-comment-filter-firefox)
@@ -54,8 +50,6 @@
 **Tech Stack:** JavaScript, HTML, Chrome API, WebExtensions API
 
 [Chrome Webstore](https://chromewebstore.google.com/detail/nehhjmdmckniaijaldlefhhgkhcagpcp?utm_source=item-share-cb) ・ [GitHub Repository(Chrome版)](https://github.com/ShunsukeOU/instagram-cleaner-chrome) ・ [Firefox Add-ons(AMO)](https://addons.mozilla.org/ja/firefox/addon/instagram-cleaner/) ・ [GitHub Repository(Firefox版)](https://github.com/ShunsukeOU/instagram-cleaner-firefox)
-
----
 
 ### Languages & Frameworks
 
@@ -135,7 +129,12 @@
     </td>
   </tr>
 </table>
----
+
+### GitHub Stats
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShunsukeOU&show_icons=true&theme=dark&hide_border=true&count_private=true" /><br>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ShunsukeOU&theme=dark&hide_border=true" alt="GitHub Streak" /><br>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShunsukeOU&layout=compact&theme=dark&hide_border=true" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShunsukeOU/ShunsukeOU/output/github-contribution-grid-snake-dark.svg" />
@@ -143,19 +142,10 @@
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/ShunsukeOU/ShunsukeOU/output/github-contribution-grid-snake.svg" />
 </picture>
 
----
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShunsukeOU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShunsukeOU&layout=compact&theme=tokyonight&hide_border=true" />
-
----
-
-## Connect with me
-
----
-
-2025年夏に、ボランティアで海外渡航した際の学びをブログ形式でまとめています。
+2025年夏に，ボランティアで海外渡航した際の経験をブログ形式でまとめています．
 
 [記事のリンク](https://shunsukeou.github.io/blog-Nepal/)
+
+![Last Commit](https://img.shields.io/github/last-commit/ShunsukeOU/ShunsukeOU?label=Last%20update&style=flat-square&color=blue)
 
 </div>
