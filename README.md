@@ -2,54 +2,11 @@
 
 # @ShunsukeOU
 
-### MagneticAR
+<sub>
+iOS / Web / Extensions
+</sub>
 
-**Feature:** 磁力線を可視化するARアプリ  
-**Tech Stack:** Swift, ARKit, UIKit, SceneKit, CoreMotion
-
-[GitHub Repository（ベータ版、App Store未公開）](https://github.com/ShunsukeOU/MagneticAR) ・ [App Store Link（App Store公開版）](https://apps.apple.com/jp/app/magneticar/id1621243158?platform=iphone) ・ [アプリ紹介Webサイト](https://sites.google.com/view/magneticar/%E3%83%9B%E3%83%BC%E3%83%A0)
-
-### FridgeChef
-
-**Feature:** 冷蔵庫の写真から献立を考えるアプリ  
-**Tech Stack:** Swift, AVFoundation, SwiftUI, Google Gemini API
-
-[GitHub Repository（App Store未公開）](https://github.com/ShunsukeOU/FridgeChef)
-
-### SubscriptionItems
-
-**Feature:** 月々支払うサブスクや固定費の金額を一目で確認できるアプリ  
-**Tech Stack:** Swift, SwiftUI, SwiftData
-
-[GitHub Repository（App Store未公開）](https://github.com/ShunsukeOU/SubscriptionItems)
-
-### PackChecker
-
-**Feature:** 持ち物を行き先ごとに分けてメモし，一目で確認できるアプリ  
-**Tech Stack:** Swift, SwiftUI, SwiftData
-
-[GitHub Repository（App Store未公開）](https://github.com/ShunsukeOU/PackChecker)
-
-### FamilyShoppingMemo(Web版/iOS版)
-
-**Feature:** 家族や友達間で買い忘れや買い物メモを共有できるWebアプリ  
-**Tech Stack(Web版):** Vercel, Supabase, TypeScript, React, ESLint, Node.js, PostgreSQL, Prisma, Docker, UML
-
-[Webサイト](https://family-shopping-memo.vercel.app/) ・ [GitHub Repository(Web版)](https://github.com/ShunsukeOU/FamilyShoppingMemo)（現在非公開） ・ [GitHub Repository(iOS版，App Store未公開)](https://github.com/ShunsukeOU/FamilyShoppingMemo_iOS)（現在非公開）
-
-### Youtubecommentfilter(Chrome版/Firefox版)
-
-**Feature:** YouTube上の見たくないコメントや，本語以外を含まないコメントを非表示にすることができるブラウザ拡張機能  
-**Tech Stack:** JavaScript, HTML, Chrome API, WebExtensions API
-
-[Chrome Webstore](https://chromewebstore.google.com/detail/ejpeehceebhgkadkhncpadpcinnejfkc?utm_source=item-share-cb) ・ [GitHub Repository(Chrome版)](https://github.com/ShunsukeOU/youtube-comment-filter-chrome) ・ [Firefox Add-ons(AMO)](https://addons.mozilla.org/ja/firefox/addon/youtube-comment-filter-ff/) ・ [GitHub Repository(Firefox版)](https://github.com/ShunsukeOU/youtube-comment-filter-firefox)
-
-### InstagramCleaner(Chrome版/Firefox版)
-
-**Feature:** Instagram上のナビゲーションボタンなどの要素を任意に非表示にすることができるブラウザ拡張機能  
-**Tech Stack:** JavaScript, HTML, Chrome API, WebExtensions API
-
-[Chrome Webstore](https://chromewebstore.google.com/detail/nehhjmdmckniaijaldlefhhgkhcagpcp?utm_source=item-share-cb) ・ [GitHub Repository(Chrome版)](https://github.com/ShunsukeOU/instagram-cleaner-chrome) ・ [Firefox Add-ons(AMO)](https://addons.mozilla.org/ja/firefox/addon/instagram-cleaner/) ・ [GitHub Repository(Firefox版)](https://github.com/ShunsukeOU/instagram-cleaner-firefox)
+<div align="center">
 
 ### Languages & Frameworks
 
