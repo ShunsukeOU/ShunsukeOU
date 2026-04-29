@@ -113,9 +113,17 @@ iOS / Web / Extensions / ML
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/ShunsukeOU/ShunsukeOU/output/github-contribution-grid-snake.svg" />
 </picture>
 
+### Fun
+
 2025年夏に，ボランティアで海外渡航した際の経験をブログ形式でまとめています．
 
 [記事のリンク](https://shunsukeou.github.io/blog-Nepal/)
+
+### Contact
+
+<p align="center">
+  <a href="mailto:muller-mate.3s@icloud.com">muller-mate.3s@icloud.com</a>
+</p>
 
 ![Last Commit](https://img.shields.io/github/last-commit/ShunsukeOU/ShunsukeOU?label=Last%20update&style=flat-square&color=blue)
 
