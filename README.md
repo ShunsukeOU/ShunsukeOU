@@ -37,6 +37,17 @@ iOS / Web / Extensions
       <img src="https://cdn.simpleicons.org/jekyll/cd5c5c" width="56" height="56" alt="Jekyll"><br><span style="display:block; margin-top:-6px;">Jekyll</span>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="92">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="56" height="56" alt="Next.js"><br><span style="display:block; margin-top:-6px;">Next.js</span>
+    </td>
+    <td align="center" width="92">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="56" height="56" alt="PyTorch"><br><span style="display:block; margin-top:-6px;">PyTorch</span>
+    </td>
+    <td align="center" width="92">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="56" height="56" alt="scikit-learn"><br><span style="display:block; margin-top:-6px;">sklearn</span>
+    </td>
+  </tr>
 </table>
 
 ### Tools & Backend
@@ -83,6 +94,9 @@ iOS / Web / Extensions
     </td>
     <td align="center" width="92">
       <img src="https://cdn.simpleicons.org/ruff/d7ff64" width="56" height="56" alt="Ruff"><br><span style="display:block; margin-top:-6px;">Ruff</span>
+    </td>
+    <td align="center" width="92">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="56" height="56" alt="GitHub Actions"><br><span style="display:block; margin-top:-6px;">Actions</span>
     </td>
   </tr>
 </table>
