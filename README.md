@@ -1,116 +1,68 @@
 <div align="center">
-
+  
 # @ShunsukeOU
-
-<sub>
+  
 iOS / Web / Extensions / ML
-</sub>
 
-<div align="center">
-
-### Languages & Frameworks
-
+### Tech Stack
 <table>
   <tr>
     <td align="center" width="92">
-      <img src="https://techstack-generator.vercel.app/swift-icon.svg" width="56" height="56" alt="Swift"><br><span style="display:block; margin-top:-6px;">Swift</span>
-    </td>
+      <img src="https://techstack-generator.vercel.app/swift-icon.svg" width="56" height="56" alt="Swift"><br>Swift</td>
     <td align="center" width="92">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="56" height="56" alt="Python"><br><span style="display:block; margin-top:-6px;">Python</span>
-    </td>
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="56" height="56" alt="TypeScript"><br>TypeScript</td>
     <td align="center" width="92">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="56" height="56" alt="PyTorch"><br><span style="display:block; margin-top:-6px;">PyTorch</span>
-    </td>
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="56" height="56" alt="React"><br>React</td>
     <td align="center" width="92">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="56" height="56" alt="TypeScript"><br><span style="display:block; margin-top:-6px;">TypeScript</span>
-    </td>
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="56" height="56" alt="JavaScript"><br>JavaScript</td>
     <td align="center" width="92">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="56" height="56" alt="React"><br><span style="display:block; margin-top:-6px;">React</span>
-    </td>
+      <img src="https://cdn.simpleicons.org/jekyll/cd5c5c" width="56" height="56" alt="Jekyll"><br>Jekyll</td>
     <td align="center" width="92">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="56" height="56" alt="JavaScript"><br><span style="display:block; margin-top:-6px;">JavaScript</span>
-    </td>
+      <img src="https://skillicons.dev/icons?i=html" width="56" height="56" alt="HTML5"><br>HTML</td>
     <td align="center" width="92">
-      <img src="https://skillicons.dev/icons?i=html" width="56" height="56" alt="HTML5"><br><span style="display:block; margin-top:-6px;">HTML5</span>
-    </td>
+      <img src="https://skillicons.dev/icons?i=css" width="56" height="56" alt="CSS3"><br>CSS</td>
     <td align="center" width="92">
-      <img src="https://skillicons.dev/icons?i=css" width="56" height="56" alt="CSS3"><br><span style="display:block; margin-top:-6px;">CSS3</span>
-    </td>
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="56" height="56" alt="Python"><br>Python</td>
     <td align="center" width="92">
-      <img src="https://cdn.simpleicons.org/jekyll/cd5c5c" width="56" height="56" alt="Jekyll"><br><span style="display:block; margin-top:-6px;">Jekyll</span>
-    </td>
+      <img src="https://skillicons.dev/icons?i=pytorch" width="56" height="56" alt="PyTorch"><br>PyTorch</td>
   </tr>
 </table>
-
-### Tools & Backend
-
 <table>
   <tr>
     <td align="center" width="92">
-      <img src="https://skillicons.dev/icons?i=vercel" width="56" height="56" alt="Vercel"><br><span style="display:block; margin-top:-6px;">Vercel</span>
-    </td>
+      <img src="https://skillicons.dev/icons?i=supabase" width="56" height="56" alt="Supabase"><br>Supabase</td>
     <td align="center" width="92">
-      <img src="https://skillicons.dev/icons?i=supabase" width="56" height="56" alt="Supabase"><br><span style="display:block; margin-top:-6px;">Supabase</span>
-    </td>
+      <img src="https://skillicons.dev/icons?i=postgres" width="56" height="56" alt="PostgreSQL"><br>PostgreSQL</td>
     <td align="center" width="92">
-      <img src="https://skillicons.dev/icons?i=postgres" width="56" height="56" alt="PostgreSQL"><br><span style="display:block; margin-top:-6px;">PostgreSQL</span>
-    </td>
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="56" height="56" alt="Docker"><br>Docker</td>
     <td align="center" width="92">
-      <img src="https://cdn.simpleicons.org/uv/9b59ff" width="56" height="56" alt="uv"><br><span style="display:block; margin-top:-6px;">uv</span>
-    </td>
+      <img src="https://skillicons.dev/icons?i=vercel" width="56" height="56" alt="Vercel"><br>Vercel</td>
     <td align="center" width="92">
-      <img src="https://cdn.simpleicons.org/ruff/d7ff64" width="56" height="56" alt="Ruff"><br><span style="display:block; margin-top:-6px;">Ruff</span>
-    </td>
+      <img src="https://skillicons.dev/icons?i=git" width="56" height="56" alt="Git"><br>Git</td>
     <td align="center" width="92">
-      <img src="https://skillicons.dev/icons?i=git" width="56" height="56" alt="Git"><br><span style="display:block; margin-top:-6px;">Git</span>
-    </td>
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="56" height="56" alt="GitHub"><br>GitHub</td>
     <td align="center" width="92">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="56" height="56" alt="GitHub"><br><span style="display:block; margin-top:-6px;">GitHub</span>
-    </td>
+      <img src="https://cdn.simpleicons.org/uv/9b59ff" width="56" height="56" alt="uv"><br>uv</td>
     <td align="center" width="92">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="56" height="56" alt="Docker"><br><span style="display:block; margin-top:-6px;">Docker</span>
-    </td>
+      <img src="https://cdn.simpleicons.org/ruff/d7ff64" width="56" height="56" alt="Ruff"><br>Ruff</td>
     <td align="center" width="92">
-      <img src="https://skillicons.dev/icons?i=apple" width="56" height="56" alt="Xcode"><br><span style="display:block; margin-top:-6px;">Xcode</span>
-    </td>
+      <img src="https://skillicons.dev/icons?i=apple" width="56" height="56" alt="Xcode"><br>Xcode</td>
     <td align="center" width="92">
-      <img src="https://skillicons.dev/icons?i=vscode" width="56" height="56" alt="VSCode"><br><span style="display:block; margin-top:-6px;">VSCode</span>
-    </td>
-    <td align="center" width="92">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="56" height="56" alt="AWS"><br><span style="display:block; margin-top:-6px;">AWS</span>
-    </td>
+      <img src="https://skillicons.dev/icons?i=vscode" width="56" height="56" alt="VSCode"><br>VSCode</td>
   </tr>
 </table>
 
-
-
-
-### Git Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ShunsukeOU&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=ShunsukeOU&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShunsukeOU&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
-</p>
-
+### GitHub Stats
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShunsukeOU&layout=compact&theme=dark&hide_border=true" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShunsukeOU/ShunsukeOU/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShunsukeOU/ShunsukeOU/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/ShunsukeOU/ShunsukeOU/output/github-contribution-grid-snake.svg" />
 </picture>
 
-### Fun
-
-2025年夏に，ボランティアで海外渡航した際の経験をブログ形式でまとめています．
-
-[記事のリンク](https://shunsukeou.github.io/blog-Nepal/)
-
 ### Contact
+<a href="mailto:muller-mate.3s@icloud.com">muller-mate.3s@icloud.com</a>
 
-<p align="center">
-  <a href="mailto:muller-mate.3s@icloud.com">muller-mate.3s@icloud.com</a>
-</p>
-
-![Last Commit](https://img.shields.io/github/last-commit/ShunsukeOU/ShunsukeOU?label=Last%20update&style=flat-square&color=blue)
-
+### Fun
+ボランティアで海外渡航した際の体験を，ブログ形式でまとめています．[記事のリンク](https://shunsukeou.github.io/blog-Nepal/)
 </div>
