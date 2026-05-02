@@ -19,6 +19,9 @@ iOS / Web / Extensions / ML
       <img src="https://techstack-generator.vercel.app/python-icon.svg" width="56" height="56" alt="Python"><br><span style="display:block; margin-top:-6px;">Python</span>
     </td>
     <td align="center" width="92">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="56" height="56" alt="PyTorch"><br><span style="display:block; margin-top:-6px;">PyTorch</span>
+    </td>
+    <td align="center" width="92">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="56" height="56" alt="TypeScript"><br><span style="display:block; margin-top:-6px;">TypeScript</span>
     </td>
     <td align="center" width="92">
@@ -37,17 +40,6 @@ iOS / Web / Extensions / ML
       <img src="https://cdn.simpleicons.org/jekyll/cd5c5c" width="56" height="56" alt="Jekyll"><br><span style="display:block; margin-top:-6px;">Jekyll</span>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="92">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="56" height="56" alt="Next.js"><br><span style="display:block; margin-top:-6px;">Next.js</span>
-    </td>
-    <td align="center" width="92">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="56" height="56" alt="PyTorch"><br><span style="display:block; margin-top:-6px;">PyTorch</span>
-    </td>
-    <td align="center" width="92">
-      <img src="https://skillicons.dev/icons?i=sklearn" width="56" height="56" alt="scikit-learn"><br><span style="display:block; margin-top:-6px;">sklearn</span>
-    </td>
-  </tr>
 </table>
 
 ### Tools & Backend
@@ -55,39 +47,13 @@ iOS / Web / Extensions / ML
 <table>
   <tr>
     <td align="center" width="92">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="56" height="56" alt="GitHub"><br><span style="display:block; margin-top:-6px;">GitHub</span>
-    </td>
-    <td align="center" width="92">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="56" height="56" alt="AWS"><br><span style="display:block; margin-top:-6px;">AWS</span>
-    </td>
-    <td align="center" width="92">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="56" height="56" alt="Docker"><br><span style="display:block; margin-top:-6px;">Docker</span>
-    </td>
-    <td align="center" width="92">
-      <img src="https://skillicons.dev/icons?i=postgres" width="56" height="56" alt="PostgreSQL"><br><span style="display:block; margin-top:-6px;">PostgreSQL</span>
+      <img src="https://skillicons.dev/icons?i=vercel" width="56" height="56" alt="Vercel"><br><span style="display:block; margin-top:-6px;">Vercel</span>
     </td>
     <td align="center" width="92">
       <img src="https://skillicons.dev/icons?i=supabase" width="56" height="56" alt="Supabase"><br><span style="display:block; margin-top:-6px;">Supabase</span>
     </td>
     <td align="center" width="92">
-      <img src="https://skillicons.dev/icons?i=vercel" width="56" height="56" alt="Vercel"><br><span style="display:block; margin-top:-6px;">Vercel</span>
-    </td>
-    <td align="center" width="92">
-      <img src="https://skillicons.dev/icons?i=prisma&theme=light" width="56" height="56" alt="Prisma"><br><span style="display:block; margin-top:-6px;">Prisma</span>
-    </td>
-    <td align="center" width="92">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="56" height="56" alt="Node.js"><br><span style="display:block; margin-top:-6px;">Node.js</span>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="92">
-      <img src="https://skillicons.dev/icons?i=git" width="56" height="56" alt="Git"><br><span style="display:block; margin-top:-6px;">Git</span>
-    </td>
-    <td align="center" width="92">
-      <img src="https://skillicons.dev/icons?i=vscode" width="56" height="56" alt="VSCode"><br><span style="display:block; margin-top:-6px;">VSCode</span>
-    </td>
-    <td align="center" width="92">
-      <img src="https://skillicons.dev/icons?i=apple" width="56" height="56" alt="Xcode"><br><span style="display:block; margin-top:-6px;">Xcode</span>
+      <img src="https://skillicons.dev/icons?i=postgres" width="56" height="56" alt="PostgreSQL"><br><span style="display:block; margin-top:-6px;">PostgreSQL</span>
     </td>
     <td align="center" width="92">
       <img src="https://cdn.simpleicons.org/uv/9b59ff" width="56" height="56" alt="uv"><br><span style="display:block; margin-top:-6px;">uv</span>
@@ -96,16 +62,36 @@ iOS / Web / Extensions / ML
       <img src="https://cdn.simpleicons.org/ruff/d7ff64" width="56" height="56" alt="Ruff"><br><span style="display:block; margin-top:-6px;">Ruff</span>
     </td>
     <td align="center" width="92">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="56" height="56" alt="GitHub Actions"><br><span style="display:block; margin-top:-6px;">Actions</span>
+      <img src="https://skillicons.dev/icons?i=git" width="56" height="56" alt="Git"><br><span style="display:block; margin-top:-6px;">Git</span>
+    </td>
+    <td align="center" width="92">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="56" height="56" alt="GitHub"><br><span style="display:block; margin-top:-6px;">GitHub</span>
+    </td>
+    <td align="center" width="92">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="56" height="56" alt="Docker"><br><span style="display:block; margin-top:-6px;">Docker</span>
+    </td>
+    <td align="center" width="92">
+      <img src="https://skillicons.dev/icons?i=apple" width="56" height="56" alt="Xcode"><br><span style="display:block; margin-top:-6px;">Xcode</span>
+    </td>
+    <td align="center" width="92">
+      <img src="https://skillicons.dev/icons?i=vscode" width="56" height="56" alt="VSCode"><br><span style="display:block; margin-top:-6px;">VSCode</span>
+    </td>
+    <td align="center" width="92">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="56" height="56" alt="AWS"><br><span style="display:block; margin-top:-6px;">AWS</span>
     </td>
   </tr>
 </table>
 
-### GitHub Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShunsukeOU&show_icons=true&theme=dark&hide_border=true&count_private=true" /><br>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ShunsukeOU&theme=dark&hide_border=true" alt="GitHub Streak" /><br>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShunsukeOU&layout=compact&theme=dark&hide_border=true" />
+
+
+### Git Stats
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ShunsukeOU&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=ShunsukeOU&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShunsukeOU&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShunsukeOU/ShunsukeOU/output/github-contribution-grid-snake-dark.svg" />
